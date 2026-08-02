@@ -9,7 +9,7 @@ Hi 👋 I'm K. Sundara Manikandan
 
 <p align="center">
 
-AWS DevOps Engineer • Cloud Automation Specialist • Terraform Enthusiast
+AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 
 </p>
 
