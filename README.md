@@ -38,26 +38,6 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 🐙 GitHub:
 [https://github.com/nirumani/mani-aws-devops/](https://github.com/nirumanii/mani-aws-devops)
 
-## 🚀 Quick Facts
-
-🔹 20+ Years in IT
-
-🔹 4+ Years AWS & DevOps
-
-🔹 Terraform Expert
-
-🔹 Jenkins CI/CD
-
-🔹 Docker
-
-🔹 Linux
-
-🔹 Infrastructure Automation
-
-🔹 Cloud Security
-
-🔹 Serverless Computing
-
 ## ⚡ Core Expertise
 
 ☁ AWS Cloud
@@ -92,10 +72,45 @@ Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScr
 
 ## <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="25"/> Terraform
 
-Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
+Automated AWS infrastructure provisioning using Terraform by deploying a custom VPC, networking components, and an EC2 instance with automated Nginx installation, following Infrastructure as Code (IaC) best practices.
 
-# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
+# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/terraform_aws_infrastructure_automation)
 
+## 🎓 Education
+| Degree | Institution | Duration |
+|---------|-------------|----------|
+| 🎓 Bachelor of Engineering (Mechanical Engineering) | 🏛️ Madurai Kamaraj University, India | 📅 Oct 1997 – Nov 2002 |
+
+## ⭐ Key Skills
+- ☁️ AWS Cloud
+- 🏗️ Infrastructure as Code (Terraform)
+- 🚀 CI/CD Pipelines
+- ⚙️ Jenkins
+- 🐳 Docker
+- 🐧 Linux Administration
+- 🖼️ Serverless Computing
+- 🔗 REST API Development
+- 🪣 Amazon S3
+- ⚡ AWS Lambda
+- 🌐 Amazon API Gateway
+- 🔐 Cloud Security
+- 📊 Cloud Monitoring
+- 🤖 Infrastructure Automation
+- 🛠️ Production Support
+- 📦 Release Management
+- 📈 High Availability
+- 🔄 Disaster Recovery
+- 💰 Cost Optimization
+- 👥 Agile Scrum
+
+## 🏆 Achievements
+- 🚀 Automated AWS infrastructure provisioning using Terraform, reducing manual deployment effort and improving deployment consistency.
+- ⚙️ Built CI/CD pipelines with Jenkins to streamline application deployment and accelerate release cycles.
+- 🖼️ Developed a fully serverless AWS Image Gallery using Amazon S3, AWS Lambda, API Gateway, and JavaScript.
+- ☁️ Designed highly available AWS architectures using Application Load Balancer and Auto Scaling Groups.
+- 🔐 Implemented secure cloud solutions following AWS security best practices with IAM roles and Security Groups.
+- 📊 Integrated Amazon CloudWatch and Amazon SNS for infrastructure monitoring, logging, and automated alert notifications.
+- 💰 Improved cloud performance and optimized AWS infrastructure for scalability, availability, and cost efficiency.
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
