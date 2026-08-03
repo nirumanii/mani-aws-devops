@@ -75,8 +75,29 @@ https://github.com/nirumani/mani-aws-devops/
 
 📊 Cloud Monitoring
 
+# 🚀 Featured AWS Projects
+
+## ☁️ AWS Three-Tier Web Application
+Production-ready AWS architecture with high availability, Auto Scaling, and Infrastructure as Code.
+
+**Tech Stack:** AWS • Terraform • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/nirumanii/aws-three-tier-architecture)
+---
+
+## 🔗 Project Repository
+
+👉 **[View AWS Three-Tier Architecture Repository](https://github.com/nirumanii/aws-three-tier-architecture)**
+
+[![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-three-tier-architecture)
+
+## 🖼️ AWS Serverless Image Gallery
+
+Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
+
+🔗 **Repository:** https://github.com/nirumanii/aws-image-gallery
 ⚙ Automation
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.yourrepo" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
 </p>
