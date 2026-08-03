@@ -12,10 +12,6 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=nirumanii&color=orange)
-
-![](https://img.shields.io/github/stars/nirumanii?affiliations=OWNER&style=social)
-
 ## 👨‍💻 About Me
 
 🚀 AWS DevOps Engineer with 20+ years of IT experience and 4+ years specializing in AWS Cloud and DevOps.
@@ -80,14 +76,14 @@ https://github.com/nirumani/mani-aws-devops/
 Production-ready AWS architecture with high availability, Auto Scaling, and Infrastructure as Code.
 
 **Tech Stack:** AWS • Terraform • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
+
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-three-tier-architecture)
 
 ## 🖼️ AWS Serverless Image Gallery
 
 Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
 
-🔗 **Repository:** https://github.com/nirumanii/aws-image-gallery
-⚙ Automation
+# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
