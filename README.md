@@ -29,10 +29,10 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 🌍 Portfolio: www.maniaws.in
 
 💼 LinkedIn:
-https://www.linkedin.com/in/mani-aws-devops/
+[https://www.linkedin.com/in/mani-aws-devops/](https://www.linkedin.com/in/mani-aws-devops/)
 
 🐙 GitHub:
-https://github.com/nirumani/mani-aws-devops/
+[https://github.com/nirumani/mani-aws-devops/](https://github.com/nirumanii/mani-aws-devops)
 
 ## 🚀 Quick Facts
 
@@ -73,6 +73,7 @@ https://github.com/nirumani/mani-aws-devops/
 # 🚀 Featured AWS Projects
 
 ## ☁️ AWS Three-Tier Web Application
+
 Production-ready AWS architecture with high availability, Auto Scaling, and Infrastructure as Code.
 
 **Tech Stack:** AWS • Terraform • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
@@ -84,6 +85,13 @@ Production-ready AWS architecture with high availability, Auto Scaling, and Infr
 Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
 
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
+
+## <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="25"/> Terraform
+
+Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
+
+# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
