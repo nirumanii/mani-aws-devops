@@ -70,7 +70,7 @@ Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScr
 
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
 
-## <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="25"/> Terraform
+## <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="25"/> Terraform AWS Infrastructure Automation – Nginx Web Server Deployment Technologies
 
 Automated AWS infrastructure provisioning using Terraform by deploying a custom VPC, networking components, and an EC2 instance with automated Nginx installation, following Infrastructure as Code (IaC) best practices.
 
