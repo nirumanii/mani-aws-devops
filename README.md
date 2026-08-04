@@ -30,6 +30,8 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 
 📧 Email: kmani79@gmail.com
 
+📱 **Phone:** +91 9840872480<br>
+
 🌍 Portfolio: www.maniaws.in
 
 💼 LinkedIn:
@@ -37,6 +39,11 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 
 🐙 GitHub:
 [https://github.com/nirumani/mani-aws-devops/](https://github.com/nirumanii/mani-aws-devops)
+
+## 📄 Resume
+<p align="left">
+<a href="assets/mani_aws_devops.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
+</p>
 
 ## ⚡ Core Expertise
 
