@@ -48,7 +48,7 @@ Hi 👋 I'm K. Sundara Manikandan
 
 ## 📄 Resume
 <p align="left">
-<a href="assets/mani_aws_devops.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
+<a href="assets/Mani_AWS_DevOps.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
 </p>
 
 ## 🛠️ Technical Skills
