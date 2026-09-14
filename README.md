@@ -179,7 +179,7 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
                               │
                               ▼
                     ┌──────────────────┐
-                    │   Git / GitHub    │
+                    │   Git / GitHub   │
                     └────────┬─────────┘
                              │
                              ▼
@@ -200,10 +200,10 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
                     └────────┬─────────┘
                              │
                              ▼
-                    ┌──────────────────┐
+                    ┌───────────────────┐
                     │ AWS Infrastructure│
                     │    Terraform      │
-                    └────────┬─────────┘
+                    └────────┬──────────┘
                              │
              ┌───────────────┼────────────────┐
              ▼               ▼                ▼
@@ -211,12 +211,12 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
              │            Auto Scaling        │
              └───────────────┼────────────────┘
                              ▼
-                    ┌──────────────────┐
-                    │ Monitoring & Ops  │
-                    │ CloudWatch        │
-                    │ Prometheus        │
+                    ┌────────────────────┐
+                    │ Monitoring & Ops   │
+                    │ CloudWatch         │
+                    │ Prometheus         │
                     │ Grafana / New Relic│
-                    └──────────────────┘
+                    └────────────────────┘
 
 ## 🎓 Education
 | Degree | Institution | Duration |
