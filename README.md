@@ -192,10 +192,67 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
 - Integrated EC2 workloads with controlled IAM access.
 - Used CloudWatch monitoring and email notifications for operational events.
 
+### 📊 DevOps / Cloud Architecture
+
+                         👨‍💻 Developer
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │   Git / GitHub    │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │     Jenkins      │
+                    │     CI / CD      │
+                    └────────┬─────────┘
+                             │
+                 ┌───────────┼───────────┐
+                 ▼           ▼           ▼
+              Maven      SonarQube    Nexus
+             Build       Quality      Artifacts
+                 └───────────┼───────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │      Docker      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ AWS Infrastructure│
+                    │    Terraform      │
+                    └────────┬─────────┘
+                             │
+             ┌───────────────┼────────────────┐
+             ▼               ▼                ▼
+          VPC / IAM        EC2 / ALB        S3 / RDS
+             │            Auto Scaling        │
+             └───────────────┼────────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │ Monitoring & Ops  │
+                    │ CloudWatch        │
+                    │ Prometheus        │
+                    │ Grafana / New Relic│
+                    └──────────────────┘
+
 ## 🎓 Education
 | Degree | Institution | Duration |
 |---------|-------------|----------|
 | 🎓 Bachelor of Engineering (Mechanical Engineering) | 🏛️ Madurai Kamaraj University, India | 📅 Oct 1997 – Nov 2002 |
+
+## 📫 Connect With Me
+
+📱 **Mobile:** +91 98408 72480
+
+📧 **Email:** kmani79@gmail.com
+
+🌐 **Portfolio:** www.maniaws.in
+
+💼 **LinkedIn:** https://www.linkedin.com/in/mani-aws-devops/
+
+🐙 **GitHub:** https://github.com/nirumanii
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
