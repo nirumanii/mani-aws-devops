@@ -74,7 +74,7 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 ### AWS DevOps Engineer
 **Official Designation: Senior Multimedia Developer**
 
-**Sify Technologies Limited**  
+**Sify Digital Services Limited**  
 📍 Chennai, India  
 📅 *April 2023 – Present*
 
@@ -105,7 +105,7 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 🤝 Collaborate with Development, QA and Operations teams within Agile/Scrum processes using Jira and Confluence.
 
 ### Senior Multimedia Developer
-**Sify Technologies Limited**  
+**Sify Digital Services Limited**  
 📍 Chennai, India  
 **Nov 2015 – Mar 2023**
 
