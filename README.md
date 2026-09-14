@@ -7,18 +7,30 @@ Hi 👋 I'm K. Sundara Manikandan
 </h1>
 
 <p align="center">
-AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
+  <strong>AWS DevOps Engineer | Cloud Infrastructure | Terraform | CI/CD | Docker</strong>
+</p>
+
+<p align="center">
+  AWS DevOps Engineer with 3+ years of specialized AWS & DevOps experience and 20+ years of overall IT experience.
 </p>
 
 ## 👨‍💻 About Me
 
-🚀 AWS DevOps Engineer with 20+ years of IT experience and 4+ years specializing in AWS Cloud and DevOps.
+☁️ AWS DevOps Engineer focused on secure, scalable and highly available cloud infrastructure.
 
-☁ Experienced in designing secure, scalable and highly available cloud infrastructure.
+🏗️ Hands-on experience with AWS infrastructure provisioning and automation using Terraform.
 
-⚙ Passionate about Infrastructure as Code, CI/CD automation and cloud-native solutions.
+🚀 Experienced in Jenkins CI/CD pipelines with Git, Maven, SonarQube and Nexus Repository.
 
-🌱 Currently expanding my expertise in Kubernetes, GitHub Actions, Amazon EKS and GitOps.
+🐳 Experienced with Docker and knowledgeable in Kubernetes, Amazon EKS and Helm.
+
+🔐 Strong focus on AWS networking, IAM, security, troubleshooting and production support.
+
+📊 Monitoring and observability experience with Amazon CloudWatch, Prometheus, Grafana and New Relic.
+
+🤖 Hands-on knowledge of Amazon Bedrock for exploring foundation models, generative AI capabilities and API-based integration with AWS applications.
+
+🌍 Open to AWS DevOps / Cloud / Infrastructure opportunities.
 
 ## 📫 Connect With Me
 
@@ -39,41 +51,90 @@ AWS DevOps Engineer | Cloud Automation Specialist | Terraform Enthusiast
 <a href="assets/mani_aws_devops.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
 </p>
 
-## ⭐ Key Skills
-- ☁️ AWS Cloud
-- 🏗️ Infrastructure as Code (Terraform)
-- 🚀 CI/CD Pipelines
-- ⚙️ Jenkins
-- 🐳 Docker
-- 🐧 Linux Administration
-- 🖼️ Serverless Computing
-- 🔗 REST API Development
-- 🪣 Amazon S3
-- ⚡ AWS Lambda
-- 🌐 Amazon API Gateway
-- 🔐 Cloud Security
-- 📊 Cloud Monitoring
-- 🤖 Infrastructure Automation
-- 🛠️ Production Support
-- 📦 Release Management
-- 📈 High Availability
-- 🔄 Disaster Recovery
-- 💰 Cost Optimization
+## 🛠️ Technical Skills
+
+### ☁️ AWS Cloud
+EC2 🔹 VPC 🔹 Subnets 🔹 IAM 🔹 S3 🔹 RDS 🔹 Route 53 🔹 CloudFront 🔹 Lambda 🔹 API Gateway 🔹 ALB 🔹 Auto Scaling 🔹 SQS 🔹 SNS 🔹 EBS 🔹 EFS 🔹 AWS Backup 🔹 CloudWatch 🔹 CloudTrail
+
+### 🏗️ Infrastructure as Code
+Terraform
+
+### 🚀 CI/CD & Build Automation
+Jenkins 🔹 Git 🔹 GitHub 🔹 Maven 🔹 SonarQube 🔹 Nexus Repository
+
+### 📊 Monitoring & Observability
+Prometheus 🔹 Grafana 🔹 Amazon CloudWatch 🔹 CloudTrail 🔹 New Relic
+
+### 🐳 Containers & Orchestration
+Docker 🔹 Kubernetes — Knowledge 🔹 Amazon EKS — Knowledge 🔹 Helm — Knowledge
+
+### 🖥️ Scripting & Configuration
+Bash 🔹 Shell Scripting 🔹 YAML 🔹 HTML5 🔹 CSS3 🔹 Python — Basic
+
+### 💻 Operating Systems
+Amazon Linux 🔹 Windows
+
+### 🌐 Networking
+TCP/IP 🔹 DNS 🔹 HTTP/HTTPS 🔹 SSH 🔹 VPC 🔹 Public/Private Subnets 🔹 NAT Gateway 🔹 Internet Gateway 🔹 Route Tables 🔹 Load Balancing
+
+### 🔐 Security
+IAM 🔹 Security Groups 🔹 Secrets Management 🔹 Least-Privilege Access 🔹 Secure Configuration
+
+### 🗄️ Databases
+SQL 🔹 PostgreSQL — Knowledge
+
+### 🤝 Collaboration & ITSM
+Jira 🔹 Confluence 🔹 Agile/Scrum
+
+### 🤖 AI & Productivity
+ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 
 ## 💼 Professional Experience
-### Senior Developer | AWS DevOps Engineer
+### AWS DevOps Engineer
+**Official Designation: Senior Multimedia Developer**
+
 **Sify Technologies Limited**  
 📍 Chennai, India  
-📅 *2022 – Present*
+📅 *April 2023 – Present*
 
-- ☁️ Designed, automated, and managed AWS cloud infrastructure using Infrastructure as Code (Terraform).
-- 🚀 Built and maintained CI/CD pipelines using Jenkins, Git, and Maven to streamline application deployments.
-- 🐳 Developed and deployed containerized applications using Docker.
-- 🏗️ Provisioned and managed AWS services including EC2, VPC, IAM, S3, RDS, CloudWatch, Route 53, API Gateway, and Lambda.
-- 📊 Implemented monitoring, logging, and alerting using Amazon CloudWatch and Amazon SNS.
-- 🔐 Applied AWS security best practices through IAM roles, Security Groups, and least-privilege access.
-- ⚡ Automated infrastructure provisioning and deployment processes, improving operational efficiency.
-- 🤝 Collaborated with development and operations teams in Agile/Scrum environments to deliver reliable cloud solutions.
+☁️ Design, provision and manage secure, scalable and highly available AWS infrastructure supporting application workloads.
+
+🏗️ Automate AWS infrastructure provisioning using Terraform, reusable modules and version-controlled configurations.
+
+🚀 Build and maintain Jenkins CI/CD pipelines integrated with Git, Maven, SonarQube and Nexus Repository.
+
+📦 Manage Nexus Repository for storing, versioning and managing build artifacts across application delivery workflows.
+
+⚡ Automate CI/CD deployment workflows using Jenkins, reducing deployment time by **60%** and minimizing manual intervention.
+
+🌐 Design and configure AWS VPC networking with public/private subnets, route tables, Internet Gateway and NAT Gateway.
+
+🔐 Manage IAM users, roles and policies using least-privilege access principles; configure security groups and secure access controls.
+
+🐳 Build and manage Docker images; knowledge of Kubernetes, Amazon EKS and Helm.
+
+📊 Configure Prometheus, Grafana and Amazon CloudWatch for monitoring, dashboards, logs and operational alerting.
+
+🤖 Hands-on knowledge of Amazon Bedrock for exploring foundation models, generative AI capabilities and API-based integration with AWS applications.
+
+🛠️ Perform root-cause analysis and troubleshooting across AWS infrastructure, CI/CD pipelines, permissions and network connectivity.
+
+🔄 Support production releases, validation, issue resolution and rollback/recovery activities across Development, QA, UAT and Production environments.
+
+🤝 Collaborate with Development, QA and Operations teams within Agile/Scrum processes using Jira and Confluence.
+
+### Senior Multimedia Developer
+**Sify Technologies Limited**  
+📍 Chennai, India  
+**Nov 2015 – Mar 2023**
+
+🎓 Designed and developed interactive e-learning applications using Articulate Storyline and Adobe Creative Suite.
+
+🤝 Translated business and client requirements into interactive learning solutions and coordinated cross-functional delivery activities.
+
+🛠️ Performed application maintenance, troubleshooting and production support to maintain reliability and user satisfaction.
+
+📋 Managed project deliverables and timelines while coordinating with internal teams and stakeholders.
 
 # 🚀 Featured AWS Projects
 
@@ -102,21 +163,6 @@ Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScr
 Automated AWS infrastructure provisioning using Terraform by deploying a custom VPC, networking components, and an EC2 instance with automated Nginx installation, following Infrastructure as Code (IaC) best practices.
 
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/terraform_aws_infrastructure_automation)
-
-### Senior Multimedia Developer
-**Sify Technologies Limited** | Chennai, India  
-📅 **November 2015 – March 2022**
-
-**Domain:** E-Learning Application Development
-
-**Technologies:** Articulate Storyline, Adobe Creative Suite
-
-#### Responsibilities & Achievements
-- 🎓 Designed and developed interactive e-learning applications using Articulate Storyline and Adobe Creative Suite.
-- 🤝 Collaborated with cross-functional teams to deliver enterprise learning solutions aligned with business requirements.
-- 📋 Managed project deliverables, ensuring timely delivery and adherence to client expectations.
-- 🛠️ Performed application maintenance, troubleshooting, and production support to ensure application reliability and user satisfaction.
-- 🚀 Delivered high-quality digital learning solutions while improving development efficiency and user experience.
 
 ## 🎓 Education
 | Degree | Institution | Duration |
