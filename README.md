@@ -32,25 +32,6 @@ Hi 👋 I'm K. Sundara Manikandan
 
 🌍 Open to AWS DevOps / Cloud / Infrastructure opportunities.
 
-## 📫 Connect With Me
-
-📧 Email: kmani79@gmail.com
-
-📱 **Phone:** +91 9840872480<br>
-
-🌍 Portfolio: www.maniaws.in
-
-💼 LinkedIn:
-[https://www.linkedin.com/in/mani-aws-devops/](https://www.linkedin.com/in/mani-aws-devops/)
-
-🐙 GitHub:
-[https://github.com/nirumani/mani-aws-devops/](https://github.com/nirumanii/mani-aws-devops)
-
-## 📄 Resume
-<p align="left">
-<a href="assets/Mani_AWS_DevOps.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
-</p>
-
 ## 🛠️ Technical Skills
 
 ### ☁️ AWS Cloud
@@ -253,6 +234,11 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
 💼 **LinkedIn:** https://www.linkedin.com/in/mani-aws-devops/
 
 🐙 **GitHub:** https://github.com/nirumanii
+
+## 📄 Resume
+<p align="left">
+<a href="assets/Mani_AWS_DevOps.pdf"><img src="https://img.shields.io/badge/📄%20Download-Resume-red?style=for-the-badge"></a>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
