@@ -136,6 +136,16 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 
 📋 Managed project deliverables and timelines while coordinating with internal teams and stakeholders.
 
+## 📚 Earlier Career Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Senior Software Engineer | Mahindra Satyam, Chennai | 09/2010 – 04/2013 |
+| Senior Graphic Designer | Helix Technology Solutions, Hyderabad | 07/2009 – 08/2010 |
+| Associate Consultant | Satyam Computer Services, Chennai | 10/2006 – 06/2009 |
+| Senior Web Developer | Lionbridge Technologies, Chennai | 04/2005 – 10/2006 |
+| Multimedia Developer | Sify Ltd., Chennai | 08/2002 – 04/2005 |
+
 # 🚀 Featured Projects
 
 ### 🏗️ AWS Three-Tier Web Application
