@@ -136,21 +136,25 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 
 📋 Managed project deliverables and timelines while coordinating with internal teams and stakeholders.
 
-# 🚀 Featured AWS Projects
+# 🚀 Featured Projects
 
-## ☁️ AWS Three-Tier Web Application
+### 🏗️ AWS Three-Tier Web Application
+**Technologies:** AWS • Terraform • VPC • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
 
-Production-ready AWS architecture with high availability, Auto Scaling, and Infrastructure as Code.
-
-**Tech Stack:** AWS • Terraform • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
+- Designed a scalable multi-tier AWS architecture using public/private networking.
+- Provisioned infrastructure using Terraform.
+- Implemented load balancing, Auto Scaling and managed database integration.
+- Added CloudWatch monitoring and SNS-based notifications.
 
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-three-tier-architecture)
 
-## 🖼️ AWS Serverless Image Gallery
+### 🖼️ AWS Serverless Image Gallery
+**Technologies:** AWS S3 • Lambda • API Gateway • IAM • CloudWatch • JavaScript • HTML5 • CSS3
 
-Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScript.
-
-# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-image-gallery)
+- Built a serverless image gallery using S3, Lambda and API Gateway.
+- Implemented API-based application interaction and AWS IAM access controls.
+- Used CloudWatch for operational monitoring and troubleshooting.
+- Developed the front end using JavaScript, HTML5 and CSS3.
 
 # 🚀 Live Project
 
@@ -163,6 +167,20 @@ Serverless image gallery built using Amazon S3, Lambda, API Gateway, and JavaScr
 Automated AWS infrastructure provisioning using Terraform by deploying a custom VPC, networking components, and an EC2 instance with automated Nginx installation, following Infrastructure as Code (IaC) best practices.
 
 # [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/terraform_aws_infrastructure_automation)
+
+### 🚀 AWS Elastic Beanstalk Application
+**Technologies:** AWS Elastic Beanstalk • EC2 • ALB • Auto Scaling • RDS
+
+- Deployed an application using AWS Elastic Beanstalk.
+- Configured scalable compute, load balancing and managed database integration.
+- Demonstrated AWS application deployment and infrastructure automation concepts.
+
+### 🔔 Patient Notification System
+**Technologies:** AWS EC2 • SNS • IAM • CloudWatch
+
+- Built an AWS-based notification workflow using Amazon SNS.
+- Integrated EC2 workloads with controlled IAM access.
+- Used CloudWatch monitoring and email notifications for operational events.
 
 ## 🎓 Education
 | Degree | Institution | Duration |
