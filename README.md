@@ -231,9 +231,9 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
 
 🌐 **Portfolio:** www.maniaws.in
 
-💼 **LinkedIn:** https://www.linkedin.com/in/mani-aws-devops/
+💼 [LinkedIn](https://www.linkedin.com/in/mani-aws-devops/) 
 
-🐙 **GitHub:** https://github.com/nirumanii
+🐙 [GitHub](https://github.com/nirumanii/mani-aws-devops)
 
 ## 📄 Resume
 <p align="left">
