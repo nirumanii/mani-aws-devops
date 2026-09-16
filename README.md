@@ -50,7 +50,7 @@ Prometheus 🔹 Grafana 🔹 Amazon CloudWatch 🔹 CloudTrail 🔹 New Relic
 Docker 🔹 Kubernetes — Knowledge 🔹 Amazon EKS — Knowledge 🔹 Helm — Knowledge
 
 ### 🖥️ Scripting & Configuration
-Bash 🔹 Shell Scripting 🔹 YAML 🔹 HTML5 🔹 CSS3 🔹 Python — Basic
+Bash 🔹 Shell Scripting 🔹 YAML 🔹 HTML5 🔹 CSS3 🔹 Python — Working Knowledge (AWS Lambda)
 
 ### 💻 Operating Systems
 Amazon Linux 🔹 Windows
