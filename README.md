@@ -11,7 +11,7 @@ Hi 👋 I'm K. Sundara Manikandan
 </p>
 
 <p align="center">
-  AWS DevOps Engineer with 3+ years of specialized AWS & DevOps experience and 20+ years of overall IT experience.
+  AWS DevOps Engineer with 5+ years of specialized AWS & DevOps experience and 20+ years of overall IT experience.
 </p>
 
 ## 👨‍💻 About Me
@@ -76,7 +76,7 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 
 **Sify Digital Services Limited**  
 📍 Chennai, India  
-📅 *April 2023 – Present*
+📅 *August 2021 – Present*
 
 ☁️ Design, provision and manage secure, scalable and highly available AWS infrastructure supporting application workloads.
 
@@ -107,7 +107,7 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 ### Senior Multimedia Developer
 **Sify Digital Services Limited**  
 📍 Chennai, India  
-**Nov 2015 – Mar 2023**
+**November 2015 – July 2021**
 
 🎓 Designed and developed interactive e-learning applications using Articulate Storyline and Adobe Creative Suite.
 
