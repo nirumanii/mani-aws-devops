@@ -236,9 +236,9 @@ Automated AWS infrastructure provisioning using Terraform by deploying a custom 
 🌐 **Portfolio:** [www.maniaws.in](https://www.maniaws.in/)
 
 ## 📄 Resume
-🇮🇳: **[Indian Format Resume](./Mani_AWS_DevOps.pdf)**
+🇮🇳: **[Indian Format Resume](/assets/Mani_AWS_DevOps.pdf)**
 
-🇪🇺: **[European Format Resume](./Mani_AWS_DevOps_EU.pdf)**
+🇪🇺: **[European Format Resume](/assets/Mani_AWS_DevOps_EU.pdf)**
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
