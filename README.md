@@ -127,52 +127,6 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 | Senior Web Developer | Lionbridge Technologies, Chennai | 04/2005 – 10/2006 |
 | Multimedia Developer | Sify Ltd., Chennai | 08/2002 – 04/2005 |
 
-# 🚀 Featured Projects
-
-### 🏗️ AWS Three-Tier Web Application
-**Technologies:** AWS • Terraform • VPC • EC2 • ALB • Auto Scaling • RDS • CloudWatch • SNS
-
-- Designed a scalable multi-tier AWS architecture using public/private networking.
-- Provisioned infrastructure using Terraform.
-- Implemented load balancing, Auto Scaling and managed database integration.
-- Added CloudWatch monitoring and SNS-based notifications.
-
-# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/aws-three-tier-architecture)
-
-### 🖼️ AWS Serverless Image Gallery
-**Technologies:** AWS S3 • Lambda • API Gateway • IAM • CloudWatch • JavaScript • HTML5 • CSS3
-
-- Built a serverless image gallery using S3, Lambda and API Gateway.
-- Implemented API-based application interaction and AWS IAM access controls.
-- Used CloudWatch for operational monitoring and troubleshooting.
-- Developed the front end using JavaScript, HTML5 and CSS3.
-
-# 🚀 Live Project
-
-| Project | Live Demo | Source Code |
-|---------|-----------|-------------|
-| 🖼️ AWS Serverless Image Gallery | 🌐 [https://my-image-gallery-2026.s3.amazonaws.com/index.html](https://my-image-gallery-2026.s3.amazonaws.com/index.html) | 💻 [GitHub Repository](https://github.com/nirumanii/aws-image-gallery) |
-
-## <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="25"/> Terraform AWS Infrastructure Automation – Nginx Web Server Deployment Technologies
-
-Automated AWS infrastructure provisioning using Terraform by deploying a custom VPC, networking components, and an EC2 instance with automated Nginx installation, following Infrastructure as Code (IaC) best practices.
-
-# [![View Project](https://img.shields.io/badge/🚀-View_Project-success?style=for-the-badge)](https://github.com/nirumanii/terraform_aws_infrastructure_automation)
-
-### 🚀 AWS Elastic Beanstalk Application
-**Technologies:** AWS Elastic Beanstalk • EC2 • ALB • Auto Scaling • RDS
-
-- Deployed an application using AWS Elastic Beanstalk.
-- Configured scalable compute, load balancing and managed database integration.
-- Demonstrated AWS application deployment and infrastructure automation concepts.
-
-### 🔔 Patient Notification System
-**Technologies:** AWS EC2 • SNS • IAM • CloudWatch
-
-- Built an AWS-based notification workflow using Amazon SNS.
-- Integrated EC2 workloads with controlled IAM access.
-- Used CloudWatch monitoring and email notifications for operational events.
-
 ### 📊 DevOps / Cloud Architecture
 
                          👨‍💻 Developer
