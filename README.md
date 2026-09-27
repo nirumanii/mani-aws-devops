@@ -190,9 +190,9 @@ ChatGPT 🔹 Microsoft Copilot 🔹 Claude 🔹 Amazon Bedrock
 🌐 **Portfolio:** [www.maniaws.in](https://www.maniaws.in/)
 
 ## 📄 Resume
-🇮🇳: **[Indian Format Resume](/assets/Mani_AWS_DevOps.pdf)**
+🇮🇳: **[Indian Resume Format](/assets/Mani_AWS_DevOps.pdf)**
 
-🇪🇺: **[European Format Resume](/assets/Mani_AWS_DevOps_EU.pdf)**
+🇪🇺: **[European CV Format](/assets/Mani_AWS_DevOps_EU.pdf)**
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nirumanii.aws-three-tier-architecture" alt="Visitor Count">
